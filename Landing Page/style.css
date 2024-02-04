@@ -1,0 +1,287 @@
+.navbar{
+    background-color: rgb(255, 128, 2);
+}
+.navbar-brand{
+    color: rgb(255, 255, 255);
+    font-weight: 720;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+    font-weight: 720;
+    margin: 0px 10px;
+}
+.nme{
+    color: rgb(255, 255, 255);
+    font-weight: 720;
+    background: rgba(118, 5, 5, 0.824);
+    /* border-radius: 10px; */
+}
+.lip{
+    padding-bottom: -50px !important;
+}
+.nme:hover{
+    color: rgb(255, 255, 255) !important;
+    font-weight: 720;
+    background: rgba(173, 9, 9, 0.824);
+    /* border-radius: 10px; */
+    
+}
+.nav-link:hover{
+    color: rgb(0, 0, 0);
+    transition: ease-in-out 0.5s;
+}
+/* .sec{
+    color: rgb(0, 0, 0) !important;
+    font-weight: 720;
+} */
+/* .sec:hover{
+    color: white !important;
+} */
+.img{
+    background: linear-gradient(rgba(0, 0, 0, 0.113), rgba(0, 0, 0, 0.113)), url("images/bake\ \(6\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 30px;
+}
+.find{
+    font-weight: 720;
+}
+
+.als{
+    padding: 70px 0px;
+}
+.org{
+    line-height: 65px;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.fam{
+    font-size: 25px;
+    letter-spacing: 5px
+}
+.add{
+    font-size: 15px;
+    line-height: 20px;
+    /* padding-right: 100px; */
+    color: rgb(68, 67, 67);
+    font-weight: 700;
+}
+.pala{
+    padding: 50px 0px;
+}
+.sp{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.tet{
+    text-align: center;
+    padding: 30px 0px;
+}
+.co{
+    margin: 20px 0px;
+    padding: 10px;
+    border-radius: 10px;
+
+    transition: 1s ease-in-out ;
+}
+.co:hover{
+    background-color: gainsboro;
+    transition: 0.5s ease-in-out ;
+}
+.fre{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(images/bake\ \(11\).jpg);
+    background-size: cover;
+    width: 100%;
+    padding: 30px 70px;
+}
+.bot{
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 15px 30px !important;
+    color: white;
+    font-weight: bold;
+}
+.bot:hover{
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+.cop{
+    color: white;
+ padding: 100px 0px;
+ padding-left: 40px;
+}
+.lol{
+    background-color: black;
+}
+.she{
+    font-size: 50px;
+}
+.farm{
+    text-align: center;
+}
+.red{
+    font-weight: 900 !important;
+    padding: 40px 0px;
+}
+.ale{
+    background-color: rgb(255, 255, 255) !important;
+    box-shadow: 10px;
+    /* width: 100%; */
+    /* height: 200px; */
+    text-align: center;
+    padding: 15px;
+    /* margin: auto; */
+    border-radius: 20px !important;
+    margin-top: 30px;
+}
+.imga{
+    border-radius: 20px;
+}
+.bred{
+    font-weight: 720;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.ored{
+    font-weight: 700;
+    background-color: brown;
+    color: white;
+}
+.ored:hover{
+    border: 2px solid brown;
+    color: brown;
+    font-weight: 700;
+}
+.gain{
+    background-image: url(images/bake\ \(12\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.pla{
+    padding: 20px 0px;
+    /* background-color: aqua; */
+}
+.dell{
+    font-size: 70px;
+    line-height: 70px;
+    font-weight: 700;
+}
+.cda{
+    padding: 60px 0px;
+    background-color: rgb(239, 237, 237);
+}
+
+.orep{
+    border: solid black 2px;
+    color: black;
+    background-color: rgb(239, 237, 237);
+    border-radius: 30px;
+    font-weight: 720;
+    padding: 10px 40px;
+}
+.orep:hover{
+    background-color: black;
+    color: white;
+    font-weight: 720;
+    padding: 10px 40px;
+}
+.las{
+    text-align: justify;
+}
+.men{
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
+    font-weight: 800;
+    font-size: 200px;
+}
+.sew{
+    background: linear-gradient(rgba(0, 0, 0, 0.113), rgba(0, 0, 0, 0.113)), url(images/bake\ \(16\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 700px; */
+    padding: 120px 0px;
+    padding-bottom: 200px;
+}
+.cookies{
+    background-color: rgba(185, 80, 32, 0.524);
+    padding: 20px;
+    border-radius: 10px;
+    height: 250px;
+    margin-top: 23px;
+    /* transition: 2s; */
+    color: white;
+}
+.cookies:hover{
+    /* background-color: rgb(80, 87, 34); */
+    border: 7px solid white;
+    /* transition: 2s; */
+}
+.eet{
+    font-size: 60px;
+}
+.lapo{
+    font-size: 20px;
+}
+.broo{
+    background-image: url(images/bake\ \(12\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px;
+}
+.ald,.asl{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+.chic{
+    /* background-image: url(bake\ \(3\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px ; */
+    margin-top: 30px;
+}
+.mok{
+    background-image: url(images/bake\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px 0px;
+}
+.tact{
+    background-color: rgba(0, 0, 0, 0.549);
+    color: white;
+    text-align: center;
+    width: 80%;
+    padding: 20px;
+    border-radius: 20px;
+    transition: 1s;
+}
+.tact:hover{
+    margin-left: 30px;
+    transition: 1s;
+}
+.usi{
+    font-weight: 720;
+    color: orangered;
+}
+.mail{
+    color: white;
+    font-weight: 900;
+}
+.ond{
+    font-weight: 600;
+color: white;
+}
